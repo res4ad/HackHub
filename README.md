@@ -50,7 +50,7 @@ The foundational pillar of HackHub is its modular architecture. While traditiona
          |                         |                         |
 +--------+--------+       +--------+--------+       +--------+--------+
 | HackHub         |       | HackHub         |       | HackHub         |
-| LISTNER ENGINE  |       | SCANNER ENGINE  |       | PAYLOAD STUDIO  |
+| LISTENER ENGINE  |       | SCANNER ENGINE  |       | PAYLOAD STUDIO  |
 | (Current Core)  |       | (Planned)       |       | (Planned)       |
 +--------+--------+       +--------+--------+       +--------+--------+
          |                         |                         |
