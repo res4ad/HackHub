@@ -1,0 +1,2 @@
+[console_scripts]
+hackhub = hackhub.cli:run
